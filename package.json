@@ -17,7 +17,7 @@
     "url": "https://github.com/TakuyaMats/Natours/issues"
   },
   "homepage": "https://github.com/TakuyaMats/Natours#readme",
-  "devDependencies": {
-    "node-sass": "^7.0.3"
+  "dependencies": {
+    "node-sass": "^8.0.0"
   }
 }
